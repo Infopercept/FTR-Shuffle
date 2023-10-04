@@ -1,0 +1,3 @@
+pyyaml
+requests
+wrapt_timeout_decorator
